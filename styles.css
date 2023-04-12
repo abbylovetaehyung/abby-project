@@ -1,12 +1,12 @@
 /* Place your CSS styles in this file */
-body{background-image: url("download.jpg")
+body {background-image: url("download.jpg");
 border-style: double;
 border-color: red yellow green hsla(60, 90%, 50%, .8);
 border-radius: 16px;
 padding-left: 8px;
-padding-right: 8px:
-max_width : 1026px;
-min_width : 256px;
+padding-right: 8px;
+max-width: 1026px;
+min-width: 256px;
 }
 h1 {
     text-align: center;
@@ -25,7 +25,7 @@ h1 {
     70%{color: palegreen}
     80%{color: peru}
     90%{color: yellow}
-    100%{color: lightcoral
+    100%{color: lightcoral}
 }
 h2 {
     text-align: center;
