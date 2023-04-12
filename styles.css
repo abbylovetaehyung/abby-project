@@ -1,7 +1,5 @@
 /* Place your CSS styles in this file */
-body{background-image: url("abbycantik.jpeg");
-background-size: cover;
-border-width: 5px;
+body{background-image: url("download.jpg")
 border-style: double;
 border-color: red yellow green hsla(60, 90%, 50%, .8);
 border-radius: 16px;
