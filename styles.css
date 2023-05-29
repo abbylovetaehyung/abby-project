@@ -103,4 +103,17 @@ body {background-image: url("kawaii.png");
     margin-left: auto;
     margin-right: auto;
     width: 600px;
+}   
+.img7{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+
+    }  
+.img8{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
 }
