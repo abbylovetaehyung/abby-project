@@ -11,7 +11,7 @@ body {background-image: url("kawaii.png");
     }
     h1 {
         text-align: center;
-        font-family:"Lucida Handwriting", cursive ;
+        font-family:"Brush Script MT", cursive ;
         font-weight: bold;
         animation: color 5s infinite;
 
