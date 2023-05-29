@@ -11,8 +11,10 @@ body {background-image: url("kawaii.png");
     }
     h1 {
         text-align: center;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
         font-weight: bold;
         animation: color 5s infinite;
+
     }
     @keyframes color {
         0%{color : paleturquoise}
