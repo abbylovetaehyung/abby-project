@@ -1,5 +1,6 @@
 /* Place your CSS styles in this file */
 body {background-image: url("background.jpg");
+    background-size: 1026px;
     border-style: double;
     border-color: red yellow green hsla(60, 90%, 50%, .8);
     border-radius: 16px;
