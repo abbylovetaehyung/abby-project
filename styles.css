@@ -63,11 +63,3 @@ body {background-image: url("background.jpg");
 .li-navbar:hover{ 
     background-color: rgb(99, 16, 155);
 }
-
-.img1{
-    border-image-source: center;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 1920px;
-}
